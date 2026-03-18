@@ -16,7 +16,7 @@
   "devDependencies": {
     "@types/aws-lambda": "^8.10.17",
     "@types/node": "^10.14.22",
-    "eslint": "^6.6.0",
+    "eslint": "^10.0.3",
     "serverless": "^1.79.0",
     "serverless-dotenv-plugin": "^3.0.0",
     "serverless-offline": "^6.5.0",
